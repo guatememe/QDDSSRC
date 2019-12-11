@@ -1,0 +1,10 @@
+‚     *-----------------------------------------------------------------------**
+     ›* EMPRESA.......:šCREDITO HIPOTECARIO NACIONAL DE GUATEMALA             **
+     ›* AUTOR.........:‚MANUEL ENRIQUE ACEVEDO GIRON                          **
+     ›* FECHA.........:ŠGuatemala, 09 JUNIO, 2016                             **
+‚     *----Cambios------------------------------------------------------------**
+‚     *                                                                       **
+‚     *-----------------------------------------------------------------------**
+     A          R RCEMPL                    PFILE(*LIBL/RHEMPL)
+     A          K CODEMP
+     A          S STATUS                    COMP(NE 'R')

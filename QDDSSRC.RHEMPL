@@ -1,0 +1,19 @@
+‚     *-----------------------------------------------------------------------**
+     ›* EMPRESA.......:šCREDITO HIPOTECARIO NACIONAL DE GUATEMALA             **
+     ›* DESCRIPCION...:˜Empleados Visual-HUR                                  **
+     ›* AUTOR.........:‚MANUEL ENRIQUE ACEVEDO GIRON                          **
+     ›* FECHA.........:ŠGuatemala,06 Junio 2016                               **
+‚     *----Cambios------------------------------------------------------------**
+‚     *                                                                       **
+‚     *-----------------------------------------------------------------------**
+     A                                      UNIQUE
+     A          R RCEMPL
+     A            CODCIA        01  0       COLHDG('EMPRESA')
+     A            CODEMP        09  0       COLHDG('CODIGO' 'EMPLEADO')
+     A            NOMAPE       107          COLHDG('NOMBRES APELLIDOS')
+     A            STATUS        01          COLHDG('ESTATUS')
+‚     *-----------------------------------------------------------------------**
+      *    LLAVES
+‚     *-----------------------------------------------------------------------**
+     A          K CODCIA
+     A          K CODEMP
